@@ -17,16 +17,16 @@ Welcome to **Advanced IP Tracker**! This is a powerful and user-friendly Bash sc
 ## 🛠️ How to Use:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vishuchauhan27/advanced-ip-tracker.git
-    cd advanced-ip-tracker
+    git clone https://github.com/vishuchauhan27/Advanced-IP-Tracker.git
+    cd aAdvanced-IP-Tracker
     ```
 2. Make the script executable:
     ```bash
-    chmod +x advanced-ip-tracker.sh
+    chmod +x iptracker.sh
     ```
 3. Run the script:
     ```bash
-    ./advanced-ip-tracker.sh
+    ./iptracker.sh
     ```
 
 ## 📋 Menu Options:
