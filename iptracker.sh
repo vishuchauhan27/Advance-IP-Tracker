@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "F1nd th3 4ttack3r IP"|lolcat  
+echo "F1nd th3 4ttack3r IP :)"|lolcat  
 menu() {
 printf "\e[0m\n"
 printf "\e[0m\e[1;31m  [\e[0m\e[1;37m01\e[0m\e[1;31m]\e[0m\e[1;33m Check My IP\e[0m\n"
@@ -93,7 +93,7 @@ fi
 
 useripaddr() {
 
-banner
+
 printf "\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\n"
