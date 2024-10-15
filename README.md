@@ -64,9 +64,6 @@ Welcome to **Advanced IP Tracker**! This is a powerful and user-friendly Bash sc
 ## 🤝 Contributing:
 Feel free to fork this repository and contribute by submitting a pull request. Any enhancements, bug fixes, or additional features are welcome!
 
-## 📄 License:
-This project is licensed under the MIT License.
-
 ---
 
 Enjoy tracking IPs with **Advanced IP Tracker**! 🌍🔍
