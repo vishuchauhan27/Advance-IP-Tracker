@@ -57,8 +57,9 @@ Welcome to **Advanced IP Tracker**! This is a powerful and user-friendly Bash sc
     ```
 
 ## 📸 Screenshots:
-- **Main Menu**  
-   ![Main Menu](https://example.com/main-menu.png)
+- **Main Menu**
+  
+   ![2024-10-15_22-07](https://github.com/user-attachments/assets/e61eb2cf-b929-4010-ba61-a12e06a32c0c)
   
 - **IP Tracking Result**  
    ![IP Tracking Result](https://example.com/ip-result.png)
