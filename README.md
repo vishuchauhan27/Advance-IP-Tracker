@@ -18,7 +18,6 @@ Welcome to **Advanced IP Tracker**! This is a powerful and user-friendly Bash sc
 1. Clone the repository:
     ```bash
     git clone https://github.com/vishuchauhan27/Advance-IP-Tracker.git 
-    cd Advanced-IP-Tracker
     ```
 2. Make the script executable:
     ```bash
