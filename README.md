@@ -62,7 +62,7 @@ Welcome to **Advanced IP Tracker**! This is a powerful and user-friendly Bash sc
    ![2024-10-15_22-07](https://github.com/user-attachments/assets/e61eb2cf-b929-4010-ba61-a12e06a32c0c)
   
 - **IP Tracking Result**  
-   ![IP Tracking Result](https://example.com/ip-result.png)
+   ![big](https://github.com/user-attachments/assets/ad0951b2-773c-4d3a-86c4-a6096e845dda)
 
 ## 🤝 Contributing:
 Feel free to fork this repository and contribute by submitting a pull request. Any enhancements, bug fixes, or additional features are welcome!
@@ -70,3 +70,5 @@ Feel free to fork this repository and contribute by submitting a pull request. A
 ---
 
 Enjoy tracking IPs with **Advanced IP Tracker**! 🌍🔍
+
+Smyle :)
