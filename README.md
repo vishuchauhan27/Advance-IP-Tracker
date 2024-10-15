@@ -1,3 +1,5 @@
+![DALL·E 2024-10-15 21 21 39 - A sleek and modern illustration of an IP Tracker tool interface on a computer screen  The interface should show an IP address being tracked, along wit](https://github.com/user-attachments/assets/99b2a498-4920-4d6f-b32c-7f2327c1ce94)
+
 # 🚀 Advanced IP Tracker 📍
 
 Welcome to **Advanced IP Tracker**! This is a powerful and user-friendly Bash script that helps you track detailed information about any IP address. Whether it's your own or someone else’s, this tool uses multiple public APIs to gather essential details such as geographical location, ISP, timezone, and even generates a Google Maps link for easy reference.
