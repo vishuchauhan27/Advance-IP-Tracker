@@ -21,11 +21,11 @@ Welcome to **Advanced IP Tracker**! This is a powerful and user-friendly Bash sc
     ```
 2. Make the script executable:
     ```bash
-    chmod +x iptracker.sh
+    chmod +x Advance-IP-Tracker.sh
     ```
 3. Run the script:
     ```bash
-    ./iptracker.sh
+    ./Advance-IP-Tracker.sh
     ```
 
 ## 📋 Menu Options:
